@@ -5,6 +5,8 @@
 ![Docker Image Version](https://img.shields.io/docker/v/adamweb92/debian-go)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/adampweb/docker-debian-go_bookworm-slim-1.22.5)
+![GitHub License](https://img.shields.io/github/license/adampweb/docker-debian-go_bookworm-slim-1.22.5?style=flat)
+
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/adampweb/docker-debian-go_bookworm-slim-1.22.5)
